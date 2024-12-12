@@ -1,5 +1,5 @@
 nav {
-    background-color: darkblue;
+    background-color: rgb(119, 164, 190);
     padding: 10px;
 }
 nav a {
@@ -8,7 +8,7 @@ nav a {
     padding: 20px;
 }
 h1 {
-    color: darkblue;
+    color: rgb(119, 164, 190);
 }
 main {
     max-width: 840px;
